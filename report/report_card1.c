@@ -2,6 +2,7 @@
 
 int main()
 {
+	printf("Some changes");
 	int kor, eng, math;
 	int sum = 0;
 
