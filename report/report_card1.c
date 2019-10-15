@@ -2,7 +2,6 @@
 
 int main()
 {
-	printf("Some changes");
 	int kor, eng, math;
 	int sum = 0;
 
@@ -11,6 +10,9 @@ int main()
 	kor = 90;
 	sum = 80 + 100 + 90;
 
+
+D
+	printf(""
 	printf("This program print report card.\n");
 	return 0;
 
